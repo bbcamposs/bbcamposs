@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bbcamposs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bbcamposs/bbcamposs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👋 Hi, I’m @bbcamposs — I'm Bruna Campos Silva, a Front-End Developer passionate about Java and web technologies.
+- 👀 I’m interested in Front-End Development, Java programming, UI/UX, and continuous learning in tech.
+- 🌱 I’m currently learning advanced Java concepts, React.js, and improving my design skills with Photoshop.
+- 💞️ I’m looking to collaborate on Front-End projects, especially those involving Java and modern web frameworks.
+- 📫 How to reach me: bbcamposs666@icloud.com | (61) 98253-7677 | [LinkedIn] https://www.linkedin.com/in/bruna-campos-silva-866135199/
